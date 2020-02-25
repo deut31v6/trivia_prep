@@ -1,0 +1,1 @@
+This is to make some code that will help me memorize for trivia competitions! Additionally, as my first useful repository on Git, it will be my staging ground for future coding endeavors.
